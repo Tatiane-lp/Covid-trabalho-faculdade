@@ -1,1 +1,2 @@
-# Covid-trabalho-faculdade
+# Pre-Diagnostico-Covid
+# Trabalho-Faculdade
